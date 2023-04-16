@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **react native ,Microsoft Azure Developer Associate(AZ-204)**
 
 - 📫 How to reach me **shongwe1408@gmail.com**
-
+- 📫 Ask me About  **MERN Stack**
 - ⚡ Fun fact **I am funny ,and loving**
 
 <h3 align="left">Connect with me:</h3>
