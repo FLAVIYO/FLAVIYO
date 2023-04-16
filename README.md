@@ -3,6 +3,28 @@
 <h3 align="center">A passionate Software developer from South Africa</h3>
 <img align="center" alt="Coding" width="100%" height="50%" src="profile.jpg">
 
+<p>
+                    A recent graduate with skills in full stack development and with a deep
+                    understanding of
+                    DevOps culture, which makes me a valuable asset in today's digital landscape. AM an individual who
+                    is
+                    well-versed in a
+                    variety of programming languages and frameworks(see my skills below), allowing me to build robust
+                    and
+                    efficient
+                    applications that can run on a variety of platforms. My knowledge of both front-end and back-end
+                    development allows me to create cohesive user experiences that seamlessly integrate with
+                    underlying systems.<br>
+                    In addition to my technical abilities, am a graduate with expertise in DevOps culture and i have a
+                    unique
+                    perspective on software development. I understand the importance of collaboration between
+                    development and operations teams, as well as the value of continuous integration and deployment
+                    practices. My mindset allows me to develop applications that are not only functional but also
+                    scalable, reliable, and easy to maintain. With my combination of technical and cultural
+                    knowledge, am a graduate with full stack and DevOps skills that is poised for
+                    success in a rapidly changing industry.
+   </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviyo&label=Profile%20views&color=0e75b6&style=flat" alt="flaviyo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flaviyo" alt="flaviyo" /></a> </p>
