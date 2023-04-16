@@ -1,7 +1,7 @@
-[![MasterHead](https://github.com/topics/gifs?o=desc&s=updated)](https://FLAVIYO.io)
+
 <h1 align="center">Hi 👋, I'm Thabang</h1>
 <h3 align="center">A passionate Software developer from South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://steamcommunity.com/sharedfiles/filedetails/?id=2217383700">
+<img align="center" alt="Coding" width="100%" height="50%" src="profile.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviyo&label=Profile%20views&color=0e75b6&style=flat" alt="flaviyo" /> </p>
 
