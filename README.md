@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/flaviyo" target="blank"><img src="https://img.shields.io/twitter/follow/flaviyo?logo=twitter&style=for-the-badge" alt="flaviyo" /></a> </p>
 
-- 🌱 I’m currently learning **react native ,Microservices ,Serverless Development**
+- 🌱 I’m currently learning **react native ,Microsoft Azure Developer Associate(AZ-204)**
 
 - 📫 How to reach me **shongwe1408@gmail.com**
 
