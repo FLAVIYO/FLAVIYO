@@ -31,11 +31,11 @@
 
 <p align="left"> <a href="https://twitter.com/flaviyo" target="blank"><img src="https://img.shields.io/twitter/follow/flaviyo?logo=twitter&style=for-the-badge" alt="flaviyo" /></a> </p>
 
-- 🌱 I’m currently learning **react native ,Microsoft Azure Developer Associate(AZ-204)**
+- 🌱 I’m currently learning **Microsoft Azure Developer Associate(AZ-204)**
 
 - 📫 How to reach me **shongwe1408@gmail.com**
-- 📫 Ask me About  **MERN Stack**
-- ⚡ Fun fact **I am funny ,and loving**
+- 📫 How to reach me **+27693213995**
+- 🌱 Knowledge  **MERN Stack ,** **DevOps Culture ,** **Agile Methodology ,** **SDLC ,** **Containerization ,** **OOP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
