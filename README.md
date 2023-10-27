@@ -4,7 +4,7 @@
 <img align="center" alt="Coding" width="100%" height="50%" src="profile.jpg">
 
 <p>
-                    A recent graduate with skills in full stack development and with a deep
+                    A Strong CraftsMan with skills in full stack development, Mobile development and with a deep
                     understanding of
                     DevOps culture, which makes me a valuable asset in today's digital landscape. AM an individual who
                     is
@@ -31,7 +31,7 @@
 
 <p align="left"> <a href="https://twitter.com/flaviyo" target="blank"><img src="https://img.shields.io/twitter/follow/flaviyo?logo=twitter&style=for-the-badge" alt="flaviyo" /></a> </p>
 
-- 🌱 I’m currently learning **Microsoft Azure Developer Associate(AZ-204)**
+- 🌱 I’m currently learning **Microsoft Power BI**
 
 - 📫 How to reach me **shongwe1408@gmail.com**
 - 📫 How to reach me **+27693213995**
