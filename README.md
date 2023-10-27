@@ -15,13 +15,13 @@
                     applications that can run on a variety of platforms. My knowledge of both front-end and back-end
                     development allows me to create cohesive user experiences that seamlessly integrate with
                     underlying systems.<br>
-                    In addition to my technical abilities, am a graduate with expertise in DevOps culture and i have a
+                    In addition to my technical abilities, am an Individual with expertise in DevOps Practicses and i have a
                     unique
                     perspective on software development. I understand the importance of collaboration between
                     development and operations teams, as well as the value of continuous integration and deployment
                     practices. My mindset allows me to develop applications that are not only functional but also
                     scalable, reliable, and easy to maintain. With my combination of technical and cultural
-                    knowledge, am a graduate with full stack and DevOps skills that is poised for
+                    knowledge, am a CraftsMan with full stack and DevOps skills that is poised for
                     success in a rapidly changing industry.
    </p>
 
