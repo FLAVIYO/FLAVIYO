@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Thabang</h1>
 <h3 align="center">A passionate Software CraftsMan from South Africa</h3>
-### 🛠️ Projects by Technology
+<h3> 🛠️ Projects by Technology </h3>
 
-- **[Python](https://github.com/yourusername?tab=repositories&q=python)**: [Project 1](https://github.com/yourusername/project1), [Project 2](https://github.com/yourusername/project2)
-- **[Django](https://github.com/yourusername?tab=repositories&q=django)**: [Project 1](https://github.com/yourusername/project1), [Project 2](https://github.com/yourusername/project2)
-- **[Dart](https://github.com/yourusername?tab=repositories&q=dart)**: [Project 1](https://github.com/yourusername/project1)
-- **[Flutter](https://github.com/yourusername?tab=repositories&q=flutter)**: [Project 1](https://github.com/yourusername/project1), [Project 2](https://github.com/yourusername/project2)
-- **[JavaScript](https://github.com/yourusername?tab=repositories&q=javascript)**: [Project 1](https://github.com/yourusername/project1)
-- **[MERN Stack](https://github.com/yourusername?tab=repositories&q=mern)**: [Project 1](https://github.com/yourusername/project1), [Project 2](https://github.com/yourusername/project2)
+- **[Python](https://github.com/yourusername?tab=repositories&q=python)**
+- **[Django](https://github.com/yourusername?tab=repositories&q=django)**
+- **[Dart](https://github.com/yourusername?tab=repositories&q=dart)**
+- **[Flutter](https://github.com/yourusername?tab=repositories&q=flutter)**
+- **[JavaScript](https://github.com/yourusername?tab=repositories&q=javascript)**
+- **[MERN Stack](https://github.com/yourusername?tab=repositories&q=mern)**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviyo&label=Profile%20views&color=0e75b6&style=flat" alt="flaviyo" /> </p>
