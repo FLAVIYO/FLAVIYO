@@ -1,29 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Thabang</h1>
 <h3 align="center">A passionate Software CraftsMan from South Africa</h3>
-<img align="center" alt="Coding" width="100%" height="50%" src="profile.jpg">
+### 🛠️ Projects by Technology
 
-<p>
-                    A Strong CraftsMan with skills in full stack development, Mobile development and with a deep
-                    understanding of
-                    DevOps culture, which makes me a valuable asset in today's digital landscape. AM an individual who
-                    is
-                    well-versed in a
-                    variety of programming languages and frameworks(see my skills below), allowing me to build robust
-                    and
-                    efficient
-                    applications that can run on a variety of platforms. My knowledge of both front-end and back-end
-                    development allows me to create cohesive user experiences that seamlessly integrate with
-                    underlying systems.<br>
-                    In addition to my technical abilities, am an Individual with expertise in DevOps Practicses and i have a
-                    unique
-                    perspective on software development. I understand the importance of collaboration between
-                    development and operations teams, as well as the value of continuous integration and deployment
-                    practices. My mindset allows me to develop applications that are not only functional but also
-                    scalable, reliable, and easy to maintain. With my combination of technical and cultural
-                    knowledge, am a CraftsMan with full stack and DevOps skills that is poised for
-                    success in a rapidly changing industry.
-   </p>
+- **[Python](https://github.com/yourusername?tab=repositories&q=python)**: [Project 1](https://github.com/yourusername/project1), [Project 2](https://github.com/yourusername/project2)
+- **[Django](https://github.com/yourusername?tab=repositories&q=django)**: [Project 1](https://github.com/yourusername/project1), [Project 2](https://github.com/yourusername/project2)
+- **[Dart](https://github.com/yourusername?tab=repositories&q=dart)**: [Project 1](https://github.com/yourusername/project1)
+- **[Flutter](https://github.com/yourusername?tab=repositories&q=flutter)**: [Project 1](https://github.com/yourusername/project1), [Project 2](https://github.com/yourusername/project2)
+- **[JavaScript](https://github.com/yourusername?tab=repositories&q=javascript)**: [Project 1](https://github.com/yourusername/project1)
+- **[MERN Stack](https://github.com/yourusername?tab=repositories&q=mern)**: [Project 1](https://github.com/yourusername/project1), [Project 2](https://github.com/yourusername/project2)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviyo&label=Profile%20views&color=0e75b6&style=flat" alt="flaviyo" /> </p>
 
