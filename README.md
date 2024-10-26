@@ -3,12 +3,20 @@
 <h3 align="center">A passionate Software CraftsMan from South Africa</h3>
 <h3> 🛠️ Projects by Technology </h3>
 
-- **[Python](https://github.com/yourusername?tab=repositories&q=python)**
-- **[Django](https://github.com/yourusername?tab=repositories&q=django)**
-- **[Dart](https://github.com/yourusername?tab=repositories&q=dart)**
-- **[Flutter](https://github.com/yourusername?tab=repositories&q=flutter)**
-- **[JavaScript](https://github.com/yourusername?tab=repositories&q=javascript)**
-- **[MERN Stack](https://github.com/yourusername?tab=repositories&q=mern)**
+### [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&width=150)](https://github.com/yourusername?tab=repositories&q=python)
+
+### [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&width=150)](https://github.com/yourusername?tab=repositories&q=django)
+
+### [![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&width=150)](https://github.com/yourusername?tab=repositories&q=dart)
+
+### [![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&width=150)](https://github.com/yourusername?tab=repositories&q=flutter)
+
+### [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&width=150)](https://github.com/yourusername?tab=repositories&q=javascript)
+
+### [![MERN Badge](https://img.shields.io/badge/-MERN-3C873A?style=for-the-badge&logo=node.js&logoColor=white&width=150)](https://github.com/yourusername?tab=repositories&q=mern)
+
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviyo&label=Profile%20views&color=0e75b6&style=flat" alt="flaviyo" /> </p>
