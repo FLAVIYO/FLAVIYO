@@ -5,15 +5,15 @@
 
 ### [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&width=150)](https://github.com/FLAVIYO/__PYTHON_PROJECTS/tree/main)
 
-### [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&width=150)](https://github.com/FLAVIY0?tab=repositories&q=django)
+### [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&width=150)](https://github.com/FLAVIYO/__DJANGO_PROJECTS/tree/main)
 
-### [![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&width=150)](https://github.com/yourusername?tab=repositories&q=dart)
+### [![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&width=150)](https://github.com/FLAVIYO/_DART_PROJECTS/tree/main)
 
-### [![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&width=150)](https://github.com/yourusername?tab=repositories&q=flutter)
+### [![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&width=150)](https://github.com/FLAVIYO/__PYTHON_PROJECTS/tree/main)
 
-### [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&width=150)](https://github.com/yourusername?tab=repositories&q=javascript)
+### [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&width=150)](https://github.com/FLAVIYO/_JAVASCRIPT_PROJECTS/tree/main)
 
-### [![MERN Badge](https://img.shields.io/badge/-MERN-3C873A?style=for-the-badge&logo=node.js&logoColor=white&width=150)](https://github.com/yourusername?tab=repositories&q=mern)
+### [![MERN Badge](https://img.shields.io/badge/-MERN-3C873A?style=for-the-badge&logo=node.js&logoColor=white&width=150)](https://github.com/FLAVIYO/_MERN_STACK_PROJECTS/tree/main)
 
 
 ---
