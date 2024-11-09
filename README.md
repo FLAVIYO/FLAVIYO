@@ -5,9 +5,7 @@
 
 ### [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&width=150)](https://github.com/FLAVIYO/__PYTHON_PROJECTS/tree/main)
 
-### [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&width=150)](https://github.com/FLAVIYO/__DJANGO_PROJECTS/tree/main)
-
-### [![Django Badge](https://img.shields.io/badge/-Django-0175C2?style=for-the-badge&logo=django&logoColor=white&width=150)](https://github.com/FLAVIYO/_DJANGO_PROJECTS/tree/main)
+### [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&width=150)](https://github.com/FLAVIYO/_DJANGO_PROJECTS/tree/main)
 
 ### [![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&width=150)](https://github.com/FLAVIYO/_DART_PROJECTS/tree/main)
 
