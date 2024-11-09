@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software CraftsMan from South Africa</h3>
 <h3> 🛠️ Projects by Technology </h3>
 
-### [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&width=150)](https://github.com/FLAVIYO?tab=repositories&q=my_python)
+### [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&width=150)](https://github.com/FLAVIYO?tab=repositories&q=my_python/tree/main)
 
 ### [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&width=150)](https://github.com/FLAVIY0?tab=repositories&q=django)
 
