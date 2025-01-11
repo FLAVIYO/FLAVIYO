@@ -9,7 +9,7 @@
 
 ### [![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&width=150)](https://github.com/FLAVIYO/_DART_PROJECTS/tree/main)
 
-### [![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&width=150)](https://github.com/FLAVIYO/__PYTHON_PROJECTS/tree/main)
+### [![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&width=150)](https://github.com/FLAVIYO/__FLUTTER_PROJECTS/tree/main)
 
 ### [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&width=150)](https://github.com/FLAVIYO/_JAVASCRIPT_PROJECTS/tree/main)
 
